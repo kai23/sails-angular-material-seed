@@ -1,0 +1,25 @@
+{
+  "name": "Olé",
+  "version": "0.0.1",
+  "authors": [
+    "Florian <florian@payname.fr>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "~0.2.13",
+    "angular-material": "0.8.3",
+    "angular-ui-ace": "bower",
+    "ng-clip": "~0.2.6",
+    "font-awesome": "~4.3.0",
+    "mdi": "~0.9.72-alpha",
+    "angular-messages": "~1.3.15"
+  }
+}
